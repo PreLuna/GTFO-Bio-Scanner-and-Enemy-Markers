@@ -1,0 +1,46 @@
+{
+  "SchemaVersion": 2,
+  "Repository": "GTFO-Bio-Scanner-and-Enemy-Markers",
+  "Files": [
+    {
+      "Path": ".gitattributes",
+      "SHA256": "705FD4D6451A31D36B3DF7DE96F83F30AC976C9B4A6D1E51671D8E2F33E2D0DA",
+      "Bytes": 8
+    },
+    {
+      "Path": ".gitignore",
+      "SHA256": "9E6206F653FF3BC2FD319789B5CF5A21B6316588A00BD2C24540A344A9EAE8A0",
+      "Bytes": 228
+    },
+    {
+      "Path": "baseline/BioScannerCustom/WangLocal.BioScannerCustom.dll",
+      "SHA256": "E6AADEFC5886949F37EBBF9E3E8014343563EAC9AD2D22C82A5E3A644CF6EA51",
+      "Bytes": 19968
+    },
+    {
+      "Path": "Build.ps1",
+      "SHA256": "14B9203BDAE137534027F7B31AE623CA577EF29EA0AE6E5B7F983D5E28F60FB6",
+      "Bytes": 491
+    },
+    {
+      "Path": "DEVELOPMENT.md",
+      "SHA256": "822CC9D4612F305B81A4B6442F6ACD508DAAAD179BF255B4E358C0864E6E1B8A",
+      "Bytes": 2303
+    },
+    {
+      "Path": "NOTICE.md",
+      "SHA256": "BCB3360792999B829D4E4360CAEB2D10C331FB74C47034DFC76155F4159E6F5F",
+      "Bytes": 367
+    },
+    {
+      "Path": "README.md",
+      "SHA256": "71F37FE422800817DE7FB96961FF427ECC3AECE33544149926B7DA00962F7B1A",
+      "Bytes": 962
+    },
+    {
+      "Path": "repo.json",
+      "SHA256": "1BFCF381FC7B386652BC106E67F62D3A8C92DB0B2DE04F304533AA3E167B8B5D",
+      "Bytes": 571
+    }
+  ]
+}

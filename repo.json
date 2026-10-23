@@ -1,0 +1,18 @@
+{
+  "SchemaVersion": 2,
+  "Repository": "GTFO-Bio-Scanner-and-Enemy-Markers",
+  "Modules": [
+    {
+      "Id": "BioScannerCustom",
+      "Assembly": "PreLuna.BioScannerCustom",
+      "Guid": "PreLuna.BioScannerCustom",
+      "Version": "1.0.0",
+      "DependencyGuids": [],
+      "CompileDependencies": [],
+      "Kind": "frozen-migrated",
+      "LegacyGuid": "wanglocal.bioscannercustom",
+      "Baseline": "baseline/BioScannerCustom/WangLocal.BioScannerCustom.dll",
+      "BaselineSHA256": "E6AADEFC5886949F37EBBF9E3E8014343563EAC9AD2D22C82A5E3A644CF6EA51"
+    }
+  ]
+}
