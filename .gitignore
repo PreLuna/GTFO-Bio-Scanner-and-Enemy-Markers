@@ -9,9 +9,9 @@
 .vscode/
 .idea/
 *.dll
-!baseline/
-!baseline/**/
-!baseline/**/*.dll
+!BioScannerCustom/baseline/
+!BioScannerCustom/baseline/**/
+!BioScannerCustom/baseline/WangLocal.BioScannerCustom.dll
 *.pdb
 *.log
 *.zip
