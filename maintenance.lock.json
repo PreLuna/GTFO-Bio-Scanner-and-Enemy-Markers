@@ -13,6 +13,11 @@
       "Bytes": 301
     },
     {
+      "Path": "BioScannerCustom/说明.md",
+      "SHA256": "9FF3D492D3B72639332A5F87D0A6BD665DF636477C78E2F031A32A1A0E080D61",
+      "Bytes": 859
+    },
+    {
       "Path": "BioScannerCustom/baseline/WangLocal.BioScannerCustom.dll",
       "SHA256": "E6AADEFC5886949F37EBBF9E3E8014343563EAC9AD2D22C82A5E3A644CF6EA51",
       "Bytes": 19968
